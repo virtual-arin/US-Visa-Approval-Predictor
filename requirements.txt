@@ -8,3 +8,5 @@ plotly
 imblearn
 xgboost
 catboost
+streamlit
+joblib
