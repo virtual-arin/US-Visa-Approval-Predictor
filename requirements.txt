@@ -5,3 +5,6 @@ seaborn
 ipykernel
 scikit-learn
 plotly
+imblearn
+xgboost
+catboost
