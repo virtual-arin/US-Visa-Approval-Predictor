@@ -1,12 +1,12 @@
 numpy
-pandas 
+pandas
 matplotlib
 seaborn
-ipykernel
 scikit-learn
 plotly
 imblearn
 xgboost
 catboost
-streamlit
+streamlit>=1.32
 joblib
+altair<5
